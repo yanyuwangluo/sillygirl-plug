@@ -1,6 +1,7 @@
 ### 傻妞插件使用说明
 ----
 #### By：烟雨
+### 打包下载<a href='https://github.com/yanyuwangluo/sillygirl-plug/releases/download/1.0/sillygirl-plug-main.zip'>点击下载</a>
 ### 一些自己写的插件，还有一些是找的插件，欢迎补充。
 ### 插件使用方法
 ```
