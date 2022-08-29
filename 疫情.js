@@ -10,7 +10,7 @@
 function main() {
     var address = param(1) 
     var content = request({ 
-        "url": "https://xiaobai.klizi.cn/API/other/yiqing.php?msg=" + address ,  //请求地址
+        "url": "https://xiaobai.klizi.cn/API/other/yiqing.php?city=" + address ,  //请求地址
         "method": "get",   //请求方式
         //"dataType": "json"   //返回格式
     })
