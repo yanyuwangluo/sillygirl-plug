@@ -13,7 +13,7 @@
 最新版傻妞 - 插件管理 - 插件订阅 
 填入：
 
-sub://T4EywWN46ztYBhHNdOl6Tjk2d+EtOGabIfyDREmK6J3Xvz4CK4Xe9F8q92WNeXok2H0tTGu8w2CytC7DVdiaFqr4Pa7eOcsXITA7ZhT0CjtgJ4kEL00xNYR4GkVkGmhp
+sub://T4EywWN46ztYBhHNdOl6Ts9noWPR5fdOLy28xo+UM95dQmu4JrSmPllYIfQ3eshgNsVbPuTo2eyNfDX7tDLrNxGYTGSGNDeGLMJpBxS6UnS9p6wOtAS8uFPFm3u+f0EW/VKNPYHAxRYIFP4j30qCGeHBwKhcuDiRbJfokC8oUU0=
 
 在插件市场就能看见我的插件
 ```
