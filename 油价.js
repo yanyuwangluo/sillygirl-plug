@@ -1,7 +1,7 @@
 /*
- * @Date: 2022-1-17 15:42:51
+ * @Date: 2023-11-3 19:39:47
  * @LastEditors: 烟雨
- * @LastEditTime: 2022-1-17 15:42:47
+ * @LastEditTime: 2023-11-3 19:39:47
  * @FilePath: \javascripts\功能类\油价.js
  */
 //[rule: ?油价 ] 例北京油价
@@ -13,13 +13,13 @@ function main() {
 	var content = request({
 		// 内置http请求函数
 		url:
-			"http://api.tianapi.com/oilprice/index?key=" + key + "&prov=" + address, //请求链接
+			"https://apis.tianapi.com/oilprice/index?key=" + key + "&prov=" + address, //请求链接
 		method: "get", //请求方法
 		dataType: "json", //这里接口直接返回文本，所以不需要指定json类型数据
 	});
 	var data = "";
 	if (content.code == 200) {
-		var list = content.newslist[0];
+		var list = content.result[0];
 		data =
 			"查询地区：" +
 			list.prov +
